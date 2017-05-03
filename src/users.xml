@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user id="1">
+    <name>William Davis</name>
+    <username>adrian9</username>
+    <password>regular</password>
+    <rank>0</rank>
+    </user>
+        <user id="2">
+        <name>Mark Phillipss</name>
+        <username>mphillips1</username>
+        <password>pWm9uR</password>
+        <rank>1</rank>
+        </user>
+    <user id="3">
+        <name>Sergiu Coca</name>
+        <username>sergiu27</username>
+        <password>admin</password>
+        <rank>1</rank>
+    </user>
+</users>

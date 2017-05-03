@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+    <book id="1">
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <genre>Fiction</genre>
+    <quantity>10</quantity>
+    <price>25.7</price>
+    </book>
+    <book id="2">
+        <title>Harry Potter and the Sorcerer Stone</title>
+        <author>J.K. Rowling</author>
+        <genre>Fiction</genre>
+        <quantity>51</quantity>
+        <price>39.26</price>
+    </book>
+    <book id="3">
+        <title>The Origin of Species</title>
+        <author>Charles Darwin</author>
+        <genre>History</genre>
+        <quantity>4</quantity>
+        <price>72.54</price>
+    </book>
+<book id="4">
+<title>The Final Empire</title>
+<author>Brandon Sanderson</author>
+<genre>Fantasy</genre>
+<quantity>72</quantity>
+<price>33.74</price>
+</book>
+</books>
